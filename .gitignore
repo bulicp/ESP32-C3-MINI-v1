@@ -1,0 +1,11 @@
+# ── KiCAD backup/lock datoteke ──────────────────────────────────────
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.bak
+fp-info-cache
+*.lck
+_autosave-*
+
+# --- MAC---------------
+.DS_Store
